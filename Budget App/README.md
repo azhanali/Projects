@@ -1,6 +1,4 @@
-## First look of the site
+## This is how interface looks like.
 
-
-## 3-D image of a image
-### Looks like this. One can hover and change it's direction.
-
+It has option to cancel income or expense and shows which percent of expension i sused in which category.
+![](Demo.png)
